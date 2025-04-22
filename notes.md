@@ -24,4 +24,4 @@ UBI is good.
 
 
 
-people
+peopleLinux
