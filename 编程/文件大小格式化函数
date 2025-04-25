@@ -27,7 +27,7 @@ function filesize(size: number): string {
 4. 结果保留2位小数，并会自动去除不必要的零（如1.00会显示为1）
 5. 返回带有单位的字符串
 
-## 使用示例  
+## 使用示例
 
 ```ts
 console.log(filesize(500));       // "500 B"
