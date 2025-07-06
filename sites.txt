@@ -36,3 +36,16 @@ en-US
 true
 true
 支持直接以 img 嵌入到 HTML 页面
+
+Semrush: Data-Driven Marketing Tools to Grow Your Business
+https://www.semrush.com/
+https://www.semrush.com/__static__/favicon.f8cd638f087a.ico
+Drive growth in SEO, PPC, content, social media, and traffic with AI-powered marketing tools for every task.
+开发工具
+SEO,站长工具
+SFW
+
+0
+true
+true
+
