@@ -23,3 +23,16 @@ en-US
 true
 true
 在 Google 无法使用时可以考虑
+
+Thum.io
+https://www.thum.io
+https://www.thum.io/favicon.ico
+Web 网站截图在线工具
+Web 工具
+截图,工具,Free
+SFW
+en-US
+0
+true
+true
+支持直接以 img 嵌入到 HTML 页面
