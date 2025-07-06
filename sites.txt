@@ -44,8 +44,21 @@ Drive growth in SEO, PPC, content, social media, and traffic with AI-powered mar
 开发工具
 SEO,站长工具
 SFW
-
+zh-CN
 0
 true
+true
+
+
+我的笔记
+https://note.blendiv.com
+
+基于 GitHub 的笔记本
+办公效率
+note,github,web,工具
+SFW
+
+1
+false
 true
 
