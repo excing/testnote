@@ -10,3 +10,16 @@ en-US
 true
 true
 全球最大的搜索引擎
+
+Bing
+https://www.bing.com
+https://www.google.com/favicon.ico
+全球支持国家最多的搜索引擎
+搜索引擎
+search,tech,bing
+SFW
+en-US
+0
+true
+true
+在 Google 无法使用时可以考虑
