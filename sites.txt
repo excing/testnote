@@ -26,20 +26,6 @@ true
 -_-
 2025-07-06T18:07:13.035Z
 
-轻松查译背单词 —— 🌏 青茶呗 🍵
-https://translate.blendiv.com
-https://translate.blendiv.com/./favicon.ico
-暂无描述
-其他
-其他
-SFW
-en
-0
-true
-true
--_-
-2025-07-07T01:55:04.770Z
-
 Drizzle ORM - next gen TypeScript ORM.
 https://orm.drizzle.team/
 https://orm.drizzle.team/favicon.ico
