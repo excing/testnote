@@ -7,3 +7,4 @@ url,ip_address,language,os,browser,submitted_at,status
 https://icon.horse/,192.168.0.101,zh-CN,macOS,Edge,2025-07-08T12:40:20.096Z,pending
 https://chatgpt.com,192.168.0.103,zh-CN,Android,Chrome,2025-07-08T13:09:43.028Z,pending
 https://www.semrush.com/,220.197.230.36,zh-CN,Android,Chrome,2025-07-08T17:07:40.244Z,pending
+https://chat.deepseek.com,220.197.230.36,zh-CN,Android,Chrome,2025-07-08T17:08:22.669Z,pending
