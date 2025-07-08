@@ -67,3 +67,18 @@ false
 true
 方便，好用
 2025-07-07T08:21:14.368Z
+
+
+Icon Horse
+https://icon.horse/
+https://icon.horse/favicon-32x32.png
+Get any site&#x27;s icons on demand, with confidence
+```
+SFW
+工具
+en
+0
+true
+true
+None
+2025-07-08T12:33:54.957Z
