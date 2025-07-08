@@ -82,3 +82,17 @@ true
 true
 None
 2025-07-08T12:33:54.957Z
+
+Typing Word
+https://2study.top
+https://2study.top/./logo.jpg
+None
+学习
+typing,education,website,online,practice
+SFW
+en
+0
+false
+true
+None
+2025-07-08T12:36:03.198Z
