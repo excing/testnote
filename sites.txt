@@ -6,7 +6,7 @@ https://www.google.com/favicon.ico
 search,tech,google
 SFW
 en-US
-1
+0
 true
 true
 全球最大的搜索引擎
