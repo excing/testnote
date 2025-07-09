@@ -12,3 +12,19 @@ true
 全球最大的搜索引擎
 2025-07-06T16:36:50.502Z
 https://image.thum.io/get/maxAge/12/width/700/https://www.google.com
+
+
+Icon Horse
+https://icon.horse/
+https://icon.horse/favicon-32x32.png
+Get any site&#x27;s icons on demand, with confidence
+工具
+icon,website,tool,utility
+SFW
+en
+0
+true
+true
+None
+2025-07-09T05:18:12.352Z
+https://icon.horse/ogimage.jpg
