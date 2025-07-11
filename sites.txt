@@ -1,3 +1,18 @@
+Icon Horse
+https://icon.horse/
+https://icon.horse/favicon-32x32.png
+Get any site&#x27;s icons on demand, with confidence
+工具
+icon,website,tool,utility
+SFW
+en
+0
+true
+true
+None
+2025-07-09T05:18:12.352Z
+https://icon.horse/ogimage.jpg
+
 Google
 https://www.google.com
 https://www.google.com/favicon.ico
@@ -13,18 +28,17 @@ true
 2025-07-06T16:36:50.502Z
 https://image.thum.io/get/maxAge/12/width/700/https://www.google.com
 
-
-Icon Horse
-https://icon.horse/
-https://icon.horse/favicon-32x32.png
-Get any site&#x27;s icons on demand, with confidence
-工具
-icon,website,tool,utility
+https://civitai.com/
+https://civitai.com/
+[favicon]
+[description]
+其他
+[tags]
 SFW
-en
+zh-CN
 0
+false
 true
-true
-None
-2025-07-09T05:18:12.352Z
-https://icon.horse/ogimage.jpg
+[recommendation]
+2025-07-11T03:33:17.722Z
+[ogImage]
