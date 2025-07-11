@@ -1,8 +1,8 @@
 url,ip_address,language,os,browser,submitted_at,status
-"https://www.pornhub.com","192.168.0.103","zh-CN","Android","Chrome","2025-07-06T15:05:27.900Z","rejected"
+"https://www.pornhub.com","192.168.0.103","zh-CN","Android","Chrome","2025-07-06T15:05:27.900Z","pending"
 "https://civitai.com/","192.168.0.103","zh-CN","Android","Chrome","2025-07-06T16:07:29.856Z","approved"
-"https://2study.top","127.0.0.1","zh-CN","macOS","Edge","2025-07-07T03:14:06.304Z","rejected"
+"https://2study.top","127.0.0.1","zh-CN","macOS","Edge","2025-07-07T03:14:06.304Z","pending"
 "https://www.semrush.com/","192.168.0.101","zh-CN","macOS","Edge","2025-07-07T05:41:20.888Z","approved"
-"https://chat.deepseek.com","192.168.0.101","zh-CN","macOS","Edge","2025-07-07T05:57:28.465Z","rejected"
+"https://chat.deepseek.com","192.168.0.101","zh-CN","macOS","Edge","2025-07-07T05:57:28.465Z","pending"
 "https://icon.horse/","192.168.0.101","zh-CN","macOS","Edge","2025-07-08T12:40:20.096Z","approved"
 "https://www.google.com","localhost","en-US","EXC","WebDirsTo","2025-07-11T14:14:16.325Z","approved"
