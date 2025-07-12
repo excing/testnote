@@ -19,3 +19,5 @@ url,ip_address,language,os,browser,submitted_at,status
 "https://regexr.com/","106.57.147.79","zh-CN","Android","Edge","2025-07-12T10:12:04.846Z","pending"
 url,ip_address,language,os,browser,submitted_at,status
 "https://gemini.google.com","74.48.194.69","zh-CN","macOS","Edge","2025-07-12T10:13:05.868Z","pending"
+url,ip_address,language,os,browser,submitted_at,status
+"https://github.com","74.48.194.69","zh-CN","macOS","Edge","2025-07-12T10:13:45.892Z","pending"
