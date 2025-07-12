@@ -5,7 +5,7 @@ url,ip_address,language,os,browser,submitted_at,status
 "https://www.semrush.com/","192.168.0.101","zh-CN","macOS","Edge","2025-07-07T05:41:20.888Z","approved"
 "https://chat.deepseek.com","192.168.0.101","zh-CN","macOS","Edge","2025-07-07T05:57:28.465Z","approved"
 "https://icon.horse/","192.168.0.101","zh-CN","macOS","Edge","2025-07-08T12:40:20.096Z","approved"
-"https://www.google.com","localhost","en-US","EXC","WebDirsTo","2025-07-11T14:14:16.325Z","approved"
+"https://www.google.com","localhost","en-US","EXC","WebDirsTo","2025-07-11T14:14:16.325Z","rejected"
 "http://chatgpt.com/","localhost","en-US","EXC","WebDirsTo","2025-07-11T18:11:02.913Z","approved"
 "https://opencut.app/","localhost","en","EXC","WebDirsTo","2025-07-12T03:01:29.541Z","approved"
 "https://cyc.homes/","localhost","zh-Hans","EXC","WebDirsTo","2025-07-12T03:01:29.542Z","approved"
