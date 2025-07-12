@@ -31,3 +31,5 @@ url,ip_address,language,os,browser,submitted_at,status
 "https://www.cloudflare.com/","74.48.194.69","zh-CN","macOS","Edge","2025-07-12T10:16:06.878Z","pending"
 url,ip_address,language,os,browser,submitted_at,status
 "https://www.un.org/","74.48.194.69","zh-CN","macOS","Edge","2025-07-12T10:17:36.432Z","pending"
+url,ip_address,language,os,browser,submitted_at,status
+"https://vercel.com/","74.48.194.69","zh-CN","macOS","Edge","2025-07-12T10:18:35.917Z","pending"
