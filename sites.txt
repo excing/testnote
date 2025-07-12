@@ -1,3 +1,18 @@
+Vercel: Build and deploy the best web experiences with the AI Cloud
+https://vercel.com/
+https://vercel.com/favicon.ico
+Vercel gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.
+科技
+web development,cloud,deployment,AI,infrastructure
+SFW
+en
+0
+true
+true
+[recommendation]
+2025-07-12T12:31:43.672Z
+https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4JmubmYDJnFtstwHbaZPev/0c3576832aae5b1a4d98c8c9f98863c3/Vercel_Home_OG.png
+
 轻松查译背单词 —— 🌏 青茶呗 🍵
 https://translate.blendiv.com/
 https://translate.blendiv.com/./favicon.ico
