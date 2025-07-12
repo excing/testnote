@@ -1,3 +1,78 @@
+DeepSeek
+https://chat.deepseek.com
+https://chat.deepseek.com/favicon.svg
+Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。
+AI
+DeepSeek,DeepSeek AI,DeepSeek Chat,AI assistant,coding assistant
+SFW
+zh-CN
+0
+false
+true
+[recommendation]
+2025-07-12T04:32:57.155Z
+https://cdn.deepseek.com/images/deepseek-chat-open-graph-image.jpeg
+
+Search - Microsoft Bing
+https://bing.com
+https://bing.com/sa/simg/favicon-trans-bg-blue-mg-png.png
+Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the forever curious.
+搜索引擎
+search,engine,AI,information,images,videos,maps
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-12T03:23:14.156Z
+https://www.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_tmb.jpg&amp;rf=
+
+Drizzle ORM - next gen TypeScript ORM.
+https://orm.drizzle.team/
+https://orm.drizzle.team/favicon.ico
+Drizzle ORM is a lightweight and performant TypeScript ORM with developer experience in mind.
+开发工具
+ORM,TypeScript,数据库,开发库
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-12T03:22:33.937Z
+[ogImage]
+
+Lucia
+https://lucia-auth.com
+https://lucia-auth.com/favicon.ico
+An open source resource on implementing authentication with JavaScript
+开发者资源
+authentication,javascript,open source,resource,development
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-12T03:22:19.425Z
+[ogImage]
+
+我的笔记
+https://note.blendiv.com/
+https://note.blendiv.com/./favicon.png
+[description]
+笔记工具
+productivity,notes,personal
+SFW
+zh-CN
+0
+true
+true
+[recommendation]
+2025-07-12T03:21:47.763Z
+[ogImage]
+
 🐢 EmojiTerra 🌍 | Emoji Copy &amp; Paste
 https://emojiterra.com/
 https://emojiterra.com/icons/favicon-32x32.png
@@ -147,63 +222,3 @@ true
 全球最大的搜索引擎
 2025-07-06T16:36:50.502Z
 https://image.thum.io/get/maxAge/12/width/700/https://www.google.com
-
-我的笔记
-https://note.blendiv.com/
-https://note.blendiv.com/./favicon.png
-[description]
-笔记工具
-productivity,notes,personal
-SFW
-zh-CN
-0
-true
-true
-[recommendation]
-2025-07-12T03:21:47.763Z
-[ogImage]
-
-Lucia
-https://lucia-auth.com
-https://lucia-auth.com/favicon.ico
-An open source resource on implementing authentication with JavaScript
-开发者资源
-authentication,javascript,open source,resource,development
-SFW
-en
-0
-false
-true
-[recommendation]
-2025-07-12T03:22:19.425Z
-[ogImage]
-
-Drizzle ORM - next gen TypeScript ORM.
-https://orm.drizzle.team/
-https://orm.drizzle.team/favicon.ico
-Drizzle ORM is a lightweight and performant TypeScript ORM with developer experience in mind.
-开发工具
-ORM,TypeScript,数据库,开发库
-SFW
-en
-0
-false
-true
-[recommendation]
-2025-07-12T03:22:33.937Z
-[ogImage]
-
-Search - Microsoft Bing
-https://bing.com
-https://bing.com/sa/simg/favicon-trans-bg-blue-mg-png.png
-Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the forever curious.
-搜索引擎
-search,engine,AI,information,images,videos,maps
-SFW
-en
-0
-false
-true
-[recommendation]
-2025-07-12T03:23:14.156Z
-https://www.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_tmb.jpg&amp;rf=
