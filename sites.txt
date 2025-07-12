@@ -132,3 +132,18 @@ true
 [recommendation]
 2025-07-12T02:59:37.831Z
 https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/81888156-bdca-4bf8-a385-c26b4a389775/Compress_DSC03655_(2)/public
+
+✂️💾📋🇨🇳 Emoji键盘：复制 &#038; 粘贴所有表情符号（中文）
+https://emojiterra.com/keyboard/zh/
+https://emojiterra.com/icons/favicon-32x32.png
+🎉⌨️ 轻松复制 &amp; 粘贴 ✂️💾 您最喜欢的所有表情符号 🌟 来自我们的表情符号键盘（中文）！ 📋
+工具
+emoji,键盘,复制粘贴,中文
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-12T03:00:30.495Z
+https://images.emojiterra.com/share/share-2023-4.jpg
