@@ -1,13 +1,14 @@
-轻松查译背单词 —— 🌏 青茶呗 🍵
-https://translate.blendiv.com
-https://translate.blendiv.com/./favicon.ico
-暂无描述
-其他
-其他
+✂️💾📋🇨🇳 Emoji键盘：复制 &#038; 粘贴所有表情符号（中文）
+https://emojiterra.com/keyboard/zh/
+https://emojiterra.com/icons/favicon-32x32.png
+🎉⌨️ 轻松复制 &amp; 粘贴 ✂️💾 您最喜欢的所有表情符号 🌟 来自我们的表情符号键盘（中文）！ 📋
+工具
+emoji,键盘,复制粘贴,中文
 SFW
 en
 0
+false
 true
-true
--_-
-2025-07-07T01:55:04.770Z
+[recommendation]
+2025-07-12T03:00:30.495Z
+https://images.emojiterra.com/share/share-2023-4.jpg

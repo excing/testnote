@@ -9,5 +9,5 @@ url,ip_address,language,os,browser,submitted_at,status
 "http://chatgpt.com/","localhost","en-US","EXC","WebDirsTo","2025-07-11T18:11:02.913Z","approved"
 "https://opencut.app/","localhost","en","EXC","WebDirsTo","2025-07-12T03:01:29.541Z","approved"
 "https://cyc.homes/","localhost","zh-Hans","EXC","WebDirsTo","2025-07-12T03:01:29.542Z","approved"
-"https://emojiterra.com/keyboard/zh/","localhost","en","EXC","WebDirsTo","2025-07-12T03:01:29.542Z","approved"
+"https://emojiterra.com/keyboard/zh/","localhost","en","EXC","WebDirsTo","2025-07-12T03:01:29.542Z","rejected"
 "https://emojiterra.com/","localhost","en","EXC","WebDirsTo","2025-07-12T03:01:29.542Z","approved"
