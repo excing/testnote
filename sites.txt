@@ -177,3 +177,18 @@ true
 [recommendation]
 2025-07-12T03:22:19.425Z
 [ogImage]
+
+Drizzle ORM - next gen TypeScript ORM.
+https://orm.drizzle.team/
+https://orm.drizzle.team/favicon.ico
+Drizzle ORM is a lightweight and performant TypeScript ORM with developer experience in mind.
+开发工具
+ORM,TypeScript,数据库,开发库
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-12T03:22:33.937Z
+[ogImage]
