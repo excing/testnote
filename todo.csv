@@ -23,3 +23,5 @@ url,ip_address,language,os,browser,submitted_at,status
 "https://github.com","74.48.194.69","zh-CN","macOS","Edge","2025-07-12T10:13:45.892Z","pending"
 url,ip_address,language,os,browser,submitted_at,status
 "https://www.photopea.com/","74.48.194.69","zh-CN","macOS","Edge","2025-07-12T10:14:28.554Z","pending"
+url,ip_address,language,os,browser,submitted_at,status
+"https://icon.kitchen/","74.48.194.69","zh-CN","macOS","Edge","2025-07-12T10:15:20.158Z","pending"
