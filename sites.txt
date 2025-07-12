@@ -1,3 +1,18 @@
+轻松查译背单词 —— 🌏 青茶呗 🍵
+https://translate.blendiv.com/
+https://translate.blendiv.com/./favicon.ico
+[description]
+翻译
+translation,vocabulary,learning,tool
+SFW
+en
+0
+true
+true
+[recommendation]
+2025-07-12T12:30:21.042Z
+[ogImage]
+
 DeepSeek
 https://chat.deepseek.com
 https://chat.deepseek.com/favicon.svg
