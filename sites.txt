@@ -1,3 +1,18 @@
+联合国官网
+https://www.un.org/
+https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico
+欢迎来到联合国——关注粮食和气候
+新闻
+news,international relations,politics,human rights
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-12T12:32:26.964Z
+https://www.un.org/sites/un2.un.org/files/uni510119.jpg
+
 Vercel: Build and deploy the best web experiences with the AI Cloud
 https://vercel.com/
 https://vercel.com/favicon.ico
