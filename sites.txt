@@ -147,3 +147,18 @@ true
 [recommendation]
 2025-07-12T03:00:30.495Z
 https://images.emojiterra.com/share/share-2023-4.jpg
+
+🐢 EmojiTerra 🌍 | Emoji Copy &amp; Paste
+https://emojiterra.com/
+https://emojiterra.com/icons/favicon-32x32.png
+Welcome to EmojiTerra! 🐢🌍 Browse through 3,790 emojis 😂❤️🎉, along with meanings 📖 and images 🖼️, ready to copy and paste. Enhance your digital conversations effortlessly. Visit now! 🚀
+工具网站
+emoji,表情符号,复制粘贴,社交媒体
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-12T03:01:20.492Z
+https://images.emojiterra.com/share/share-emojiterra-23.jpg
