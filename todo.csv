@@ -7,3 +7,7 @@ url,ip_address,language,os,browser,submitted_at,status
 "https://icon.horse/","192.168.0.101","zh-CN","macOS","Edge","2025-07-08T12:40:20.096Z","approved"
 "https://www.google.com","localhost","en-US","EXC","WebDirsTo","2025-07-11T14:14:16.325Z","approved"
 "http://chatgpt.com/","localhost","en-US","EXC","WebDirsTo","2025-07-11T18:11:02.913Z","approved"
+"https://opencut.app/","localhost","en","EXC","WebDirsTo","2025-07-12T03:01:29.541Z","approved"
+"https://cyc.homes/","localhost","zh-Hans","EXC","WebDirsTo","2025-07-12T03:01:29.542Z","approved"
+"https://emojiterra.com/keyboard/zh/","localhost","en","EXC","WebDirsTo","2025-07-12T03:01:29.542Z","approved"
+"https://emojiterra.com/","localhost","en","EXC","WebDirsTo","2025-07-12T03:01:29.542Z","approved"
