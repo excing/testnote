@@ -15,7 +15,7 @@ url,ip_address,language,os,browser,submitted_at,status
 "https://lucia-auth.com","localhost","en","EXC","WebDirsTo","2025-07-12T03:24:55.693Z","approved"
 "https://orm.drizzle.team/","localhost","en","EXC","WebDirsTo","2025-07-12T03:24:55.693Z","approved"
 "https://bing.com","localhost","en","EXC","WebDirsTo","2025-07-12T03:24:55.693Z","approved"
-"https://regexr.com/","106.57.147.79","zh-CN","Android","Edge","2025-07-12T10:12:04.846Z","pending"
+"https://regexr.com/","106.57.147.79","zh-CN","Android","Edge","2025-07-12T10:12:04.846Z","approved"
 "https://gemini.google.com","74.48.194.69","zh-CN","macOS","Edge","2025-07-12T10:13:05.868Z","approved"
 "https://github.com","74.48.194.69","zh-CN","macOS","Edge","2025-07-12T10:13:45.892Z","approved"
 "https://www.photopea.com/","74.48.194.69","zh-CN","macOS","Edge","2025-07-12T10:14:28.554Z","approved"
