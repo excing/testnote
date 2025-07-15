@@ -1,3 +1,18 @@
+Claude
+http://claude.ai/
+http://claude.ai/favicon.ico
+Talk with Claude, an AI assistant from Anthropic
+AI工具
+AI,聊天机器人,助理,自然语言处理
+SFW
+en-US
+0
+false
+false
+[recommendation]
+2025-07-15T03:35:58.113Z
+https://claude.ai/images/claude_ogimage.png
+
 IconKitchen
 https://icon.kitchen/
 https://icon.kitchen/favicon.ico
