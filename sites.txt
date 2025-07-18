@@ -357,3 +357,18 @@ true
 None
 2025-07-09T05:18:12.352Z
 https://icon.horse/ogimage.jpg
+
+Fast3D - Create 3D Models with AI in Seconds
+https://fast3d.io
+https://fast3d.io/favicon-32x32.png
+Fast3D is the leading AI-powered 3D model generator. Create high-quality 3D models from text or images in seconds.
+AI工具
+3D模型生成,人工智能,图像生成,文本生成,快速生成
+SFW
+en
+0
+true
+true
+[recommendation]
+2025-07-18T05:45:05.476Z
+https://fast3d.io/og.png
