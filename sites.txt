@@ -257,7 +257,7 @@ Lucia
 https://lucia-auth.com
 https://lucia-auth.com/favicon.ico
 An open source resource on implementing authentication with JavaScript
-开发者资源
+开发工具
 authentication,javascript,open source,resource,development
 SFW
 en
