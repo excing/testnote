@@ -432,3 +432,18 @@ true
 [recommendation]
 2025-07-24T15:35:51.490Z
 /设备测试网站Logo-简化版(1).png
+
+Gemini Developer API | Gemma open models &nbsp;|&nbsp; Google AI for Developers
+https://ai.google.dev/
+https://www.gstatic.com/devrel-devsite/prod/vbad538e1d00a1e89dedb22ab9f1082402199c262867d664247ae54051f01abb8/googledevai/images/favicon-new.png
+Build with Gemini 2.0 Flash, 2.5 Pro, and Gemma using the Gemini API and Google AI Studio.
+人工智能开发
+AI,开发,API,Gemini,Gemma,Google
+SFW
+en
+0
+true
+true
+[recommendation]
+2025-07-24T16:09:41.062Z
+https://ai.google.dev/static/site-assets/images/share-ai-dev.png
