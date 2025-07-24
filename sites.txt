@@ -332,7 +332,7 @@ ChatGPT
 http://chatgpt.com/
 https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico
 ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming and more.
-人工智能工具
+AI工具
 聊天机器人,AI,生产力,问答,写作,学习,头脑风暴
 SFW
 en-US
