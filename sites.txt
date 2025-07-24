@@ -1,3 +1,33 @@
+Paddle - Payments, tax and subscription management for SaaS and digital products
+https://www.paddle.com/
+https://www.paddle.com/favicon.ico
+We are the merchant of record for B2B &amp; B2C digital companies. Helping increase global conversions, reducing churn, staying compliant, and scaling up fast.
+支付/SaaS服务
+支付,SaaS,订阅管理,税务,B2B,B2C,数字化产品
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-24T08:34:46.599Z
+https://images.prismic.io/paddle/Z9gwpziBA97GijeQ_paddle-merchant-of-record-og.png?auto=format,compress&amp;rect=0,20,1200,591&amp;w=1280&amp;h=630
+
+Fast3D - Create 3D Models with AI in Seconds
+https://fast3d.io
+https://fast3d.io/favicon-32x32.png
+Fast3D is the leading AI-powered 3D model generator. Create high-quality 3D models from text or images in seconds.
+AI工具
+3D模型生成,人工智能,图像生成,文本生成,快速生成
+SFW
+en
+0
+true
+true
+[recommendation]
+2025-07-18T05:45:05.476Z
+https://fast3d.io/og.png
+
 Regexr
 https://regexr.com/
 https://regexr.com/favicon.ico
@@ -357,18 +387,3 @@ true
 None
 2025-07-09T05:18:12.352Z
 https://icon.horse/ogimage.jpg
-
-Fast3D - Create 3D Models with AI in Seconds
-https://fast3d.io
-https://fast3d.io/favicon-32x32.png
-Fast3D is the leading AI-powered 3D model generator. Create high-quality 3D models from text or images in seconds.
-AI工具
-3D模型生成,人工智能,图像生成,文本生成,快速生成
-SFW
-en
-0
-true
-true
-[recommendation]
-2025-07-18T05:45:05.476Z
-https://fast3d.io/og.png
