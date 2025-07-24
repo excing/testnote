@@ -43,7 +43,7 @@ true
 2025-07-24T08:34:46.599Z
 https://images.prismic.io/paddle/Z9gwpziBA97GijeQ_paddle-merchant-of-record-og.png?auto=format,compress&amp;rect=0,20,1200,591&amp;w=1280&amp;h=630
 
-Fast3D - Create 3D Models with AI in Seconds
+Fast3D
 https://fast3d.io
 https://fast3d.io/favicon-32x32.png
 Fast3D is the leading AI-powered 3D model generator. Create high-quality 3D models from text or images in seconds.
