@@ -107,7 +107,7 @@ IconKitchen
 https://icon.kitchen/
 https://icon.kitchen/favicon.ico
 Quickly generate app icons for Android, iOS, the Web and more.
-开发工具
+工具
 icon,generator,app icon,android,ios,web
 SFW
 en
