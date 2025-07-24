@@ -394,7 +394,7 @@ https://civitai.com/favicon-blue.ico
 Explore thousands of high-quality Stable Diffusion &amp; Flux models, share your AI-generated art, and engage with a vibrant community of creators
 AI模型分享社区
 AI,模型,图片,社区,艺术,生成式AI,Stable Diffusion,成人内容(可能存在)
-18+
+SFW
 en
 0
 true
