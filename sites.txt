@@ -417,3 +417,18 @@ true
 None
 2025-07-09T05:18:12.352Z
 https://icon.horse/ogimage.jpg
+
+Setup Check | Camera, Microphone, Speaker, Keyboard, Mouse Test
+https://www.setupcheck.tech/
+https://www.setupcheck.tech/favicon.svg
+Professional device testing platform for cameras, microphones, speakers, keyboards, mice, and network quality. Perfect for online meetings and gaming setups.
+工具
+device testing,camera,microphone,speaker,keyboard,mouse,network,online meeting,gaming
+SFW
+en
+0
+true
+true
+[recommendation]
+2025-07-24T15:35:51.490Z
+/设备测试网站Logo-简化版(1).png
