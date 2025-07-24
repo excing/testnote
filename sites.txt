@@ -223,7 +223,7 @@ true
 2025-07-12T04:32:57.155Z
 https://cdn.deepseek.com/images/deepseek-chat-open-graph-image.jpeg
 
-Search - Microsoft Bing
+Bing
 https://bing.com
 https://bing.com/sa/simg/favicon-trans-bg-blue-mg-png.png
 Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the forever curious.
