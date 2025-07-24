@@ -73,7 +73,7 @@ true
 2025-07-15T03:43:44.410Z
 [ogImage]
 
-Connect, protect, and build everywhere | Cloudflare
+Cloudflare
 https://www.cloudflare.com/
 https://www.cloudflare.com/favicon.ico
 Make employees, applications and networks faster and more secure everywhere, while reducing complexity and cost.
