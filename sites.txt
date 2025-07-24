@@ -178,7 +178,7 @@ true
 2025-07-12T12:32:26.964Z
 https://www.un.org/sites/un2.un.org/files/uni510119.jpg
 
-Vercel: Build and deploy the best web experiences with the AI Cloud
+Vercel
 https://vercel.com/
 https://vercel.com/favicon.ico
 Vercel gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.
