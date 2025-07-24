@@ -212,7 +212,7 @@ DeepSeek
 https://chat.deepseek.com
 https://chat.deepseek.com/favicon.svg
 Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。
-AI
+AI工具
 DeepSeek,DeepSeek AI,DeepSeek Chat,AI assistant,coding assistant
 SFW
 zh-CN
