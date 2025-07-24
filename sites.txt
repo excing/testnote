@@ -238,7 +238,7 @@ true
 2025-07-12T03:23:14.156Z
 https://www.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_tmb.jpg&amp;rf=
 
-Drizzle ORM - next gen TypeScript ORM.
+Drizzle ORM
 https://orm.drizzle.team/
 https://orm.drizzle.team/favicon.ico
 Drizzle ORM is a lightweight and performant TypeScript ORM with developer experience in mind.
