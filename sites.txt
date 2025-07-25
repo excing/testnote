@@ -1,3 +1,78 @@
+Quant-UX - Prototype, Test and Learn - 5.0.3
+https://quant-ux.com/
+https://quant-ux.com/favicon.ico
+Quant-UX is the only free Open Source prototyping and user research tool. Design, Test and Learn in one tool! Quant-UX Low Code capabilities allow convert designs into production systems
+软件工具
+prototyping,user research,design,testing,open source,low code
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-25T06:23:21.622Z
+[ogImage]
+
+Sign in - Google Accounts
+https://console.firebase.google.com
+https://console.firebase.google.com/favicon.ico
+[description]
+开发工具
+firebase,google,开发,后端,云服务
+SFW
+en-US
+0
+false
+true
+[recommendation]
+2025-07-24T16:09:59.615Z
+[ogImage]
+
+Google Gemini Developer
+https://ai.google.dev/
+https://www.gstatic.com/devrel-devsite/prod/vbad538e1d00a1e89dedb22ab9f1082402199c262867d664247ae54051f01abb8/googledevai/images/favicon-new.png
+Build with Gemini 2.0 Flash, 2.5 Pro, and Gemma using the Gemini API and Google AI Studio.
+人工智能开发
+AI,开发,API,Gemini,Gemma,Google
+SFW
+en
+0
+true
+true
+[recommendation]
+2025-07-24T16:09:41.062Z
+https://ai.google.dev/static/site-assets/images/share-ai-dev.png
+
+Setup Check | Camera, Microphone, Speaker, Keyboard, Mouse Test
+https://www.setupcheck.tech/
+https://www.setupcheck.tech/favicon.svg
+Professional device testing platform for cameras, microphones, speakers, keyboards, mice, and network quality. Perfect for online meetings and gaming setups.
+工具
+device testing,camera,microphone,speaker,keyboard,mouse,network,online meeting,gaming
+SFW
+en
+0
+true
+true
+[recommendation]
+2025-07-24T15:35:51.490Z
+/设备测试网站Logo-简化版(1).png
+
+Civitai
+https://civitai.com/
+https://civitai.com/favicon-blue.ico
+Explore thousands of high-quality Stable Diffusion &amp; Flux models, share your AI-generated art, and engage with a vibrant community of creators
+AI模型分享社区
+AI,模型,图片,社区,艺术,生成式AI,Stable Diffusion,成人内容(可能存在)
+SFW
+en
+0
+true
+true
+[recommendation]
+2025-07-24T08:39:22.449Z
+[ogImage]
+
 Product Hunt
 https://www.producthunt.com/
 https://ph-static.imgix.net/ph-favicon-brand-500.ico?auto=format
@@ -388,21 +463,6 @@ true
 2025-07-11T13:25:43.934Z
 https://static.semrush.com/wt-static/semrush-com.png
 
-Civitai
-https://civitai.com/
-https://civitai.com/favicon-blue.ico
-Explore thousands of high-quality Stable Diffusion &amp; Flux models, share your AI-generated art, and engage with a vibrant community of creators
-AI模型分享社区
-AI,模型,图片,社区,艺术,生成式AI,Stable Diffusion,成人内容(可能存在)
-SFW
-en
-0
-true
-true
-[recommendation]
-2025-07-24T08:39:22.449Z
-[ogImage]
-
 Icon Horse
 https://icon.horse/
 https://icon.horse/favicon-32x32.png
@@ -417,63 +477,3 @@ true
 None
 2025-07-09T05:18:12.352Z
 https://icon.horse/ogimage.jpg
-
-Setup Check | Camera, Microphone, Speaker, Keyboard, Mouse Test
-https://www.setupcheck.tech/
-https://www.setupcheck.tech/favicon.svg
-Professional device testing platform for cameras, microphones, speakers, keyboards, mice, and network quality. Perfect for online meetings and gaming setups.
-工具
-device testing,camera,microphone,speaker,keyboard,mouse,network,online meeting,gaming
-SFW
-en
-0
-true
-true
-[recommendation]
-2025-07-24T15:35:51.490Z
-/设备测试网站Logo-简化版(1).png
-
-Gemini Developer API | Gemma open models &nbsp;|&nbsp; Google AI for Developers
-https://ai.google.dev/
-https://www.gstatic.com/devrel-devsite/prod/vbad538e1d00a1e89dedb22ab9f1082402199c262867d664247ae54051f01abb8/googledevai/images/favicon-new.png
-Build with Gemini 2.0 Flash, 2.5 Pro, and Gemma using the Gemini API and Google AI Studio.
-人工智能开发
-AI,开发,API,Gemini,Gemma,Google
-SFW
-en
-0
-true
-true
-[recommendation]
-2025-07-24T16:09:41.062Z
-https://ai.google.dev/static/site-assets/images/share-ai-dev.png
-
-Sign in - Google Accounts
-https://console.firebase.google.com
-https://console.firebase.google.com/favicon.ico
-[description]
-开发工具
-firebase,google,开发,后端,云服务
-SFW
-en-US
-0
-false
-true
-[recommendation]
-2025-07-24T16:09:59.615Z
-[ogImage]
-
-Quant-UX - Prototype, Test and Learn - 5.0.3
-https://quant-ux.com/
-https://quant-ux.com/favicon.ico
-Quant-UX is the only free Open Source prototyping and user research tool. Design, Test and Learn in one tool! Quant-UX Low Code capabilities allow convert designs into production systems
-软件工具
-prototyping,user research,design,testing,open source,low code
-SFW
-en
-0
-false
-true
-[recommendation]
-2025-07-25T06:23:21.622Z
-[ogImage]
