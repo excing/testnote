@@ -507,3 +507,18 @@ true
 [recommendation]
 2025-07-25T09:23:27.823Z
 https://raw.githubusercontent.com/ripienaar/free-for-dev/master/logo.webp
+
+Augment Code - AI coding platform for real software.
+https://www.augmentcode.com/
+https://www.augmentcode.com/favicon.svg
+The most powerful AI software development platform with the industry-leading context engine.
+编程工具
+AI,编码,开发,工具,平台,自动化
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-25T09:26:15.925Z
+https://www.augmentcode.com/opengraph-image.png?68f4e909fea880f5
