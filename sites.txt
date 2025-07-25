@@ -492,3 +492,18 @@ true
 [recommendation]
 2025-07-25T06:28:35.111Z
 https://i.ibb.co/FzyH7zX/Gradientos-og.png
+
+Free for Developers
+https://free-for.dev
+https://free-for.dev/logo.webp
+Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
+开发者资源
+开发工具,免费资源,开发者,工具
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-25T09:23:27.823Z
+https://raw.githubusercontent.com/ripienaar/free-for-dev/master/logo.webp
