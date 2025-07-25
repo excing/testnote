@@ -1,3 +1,63 @@
+Figma: The Collaborative Interface Design Tool
+https://www.figma.com/
+https://static.figma.com/app/icon/1/favicon.ico
+Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single platform.
+设计工具
+design,collaboration,prototyping,UI,UX,vector graphics
+SFW
+en
+0
+true
+true
+[recommendation]
+2025-07-25T09:26:37.552Z
+https://cdn.sanity.io/images/599r6htc/regionalized/1adfa5a99040c80af7b4b5e3e2cf845315ea2367-2400x1260.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format
+
+Augment Code - AI coding platform for real software.
+https://www.augmentcode.com/
+https://www.augmentcode.com/favicon.svg
+The most powerful AI software development platform with the industry-leading context engine.
+编程工具
+AI,编码,开发,工具,平台,自动化
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-25T09:26:15.925Z
+https://www.augmentcode.com/opengraph-image.png?68f4e909fea880f5
+
+Free for Developers
+https://free-for.dev
+https://free-for.dev/logo.webp
+Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
+开发者资源
+开发工具,免费资源,开发者,工具
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-25T09:23:27.823Z
+https://raw.githubusercontent.com/ripienaar/free-for-dev/master/logo.webp
+
+Gradientos
+https://www.gradientos.app/
+https://www.gradientos.app/favicon.ico
+Gradientos makes it easy to find gradients.
+设计资源
+gradients,design,color palette,inspiration
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-25T06:28:35.111Z
+https://i.ibb.co/FzyH7zX/Gradientos-og.png
+
 Quant-UX - Prototype, Test
 https://quant-ux.com/
 https://quant-ux.com/favicon.ico
@@ -477,48 +537,3 @@ true
 None
 2025-07-09T05:18:12.352Z
 https://icon.horse/ogimage.jpg
-
-Gradientos
-https://www.gradientos.app/
-https://www.gradientos.app/favicon.ico
-Gradientos makes it easy to find gradients.
-设计资源
-gradients,design,color palette,inspiration
-SFW
-en
-0
-false
-true
-[recommendation]
-2025-07-25T06:28:35.111Z
-https://i.ibb.co/FzyH7zX/Gradientos-og.png
-
-Free for Developers
-https://free-for.dev
-https://free-for.dev/logo.webp
-Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
-开发者资源
-开发工具,免费资源,开发者,工具
-SFW
-en
-0
-false
-true
-[recommendation]
-2025-07-25T09:23:27.823Z
-https://raw.githubusercontent.com/ripienaar/free-for-dev/master/logo.webp
-
-Augment Code - AI coding platform for real software.
-https://www.augmentcode.com/
-https://www.augmentcode.com/favicon.svg
-The most powerful AI software development platform with the industry-leading context engine.
-编程工具
-AI,编码,开发,工具,平台,自动化
-SFW
-en
-0
-false
-true
-[recommendation]
-2025-07-25T09:26:15.925Z
-https://www.augmentcode.com/opengraph-image.png?68f4e909fea880f5
