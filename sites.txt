@@ -477,3 +477,18 @@ true
 None
 2025-07-09T05:18:12.352Z
 https://icon.horse/ogimage.jpg
+
+Gradientos
+https://www.gradientos.app/
+https://www.gradientos.app/favicon.ico
+Gradientos makes it easy to find gradients.
+设计资源
+gradients,design,color palette,inspiration
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-25T06:28:35.111Z
+https://i.ibb.co/FzyH7zX/Gradientos-og.png
