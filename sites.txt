@@ -43,7 +43,7 @@ true
 2025-07-24T16:09:41.062Z
 https://ai.google.dev/static/site-assets/images/share-ai-dev.png
 
-Setup Check | Camera, Microphone, Speaker, Keyboard, Mouse Test
+Device Setup Check
 https://www.setupcheck.tech/
 https://www.setupcheck.tech/favicon.svg
 Professional device testing platform for cameras, microphones, speakers, keyboards, mice, and network quality. Perfect for online meetings and gaming setups.
@@ -56,7 +56,7 @@ true
 true
 [recommendation]
 2025-07-24T15:35:51.490Z
-/设备测试网站Logo-简化版(1).png
+[ogImage]
 
 Civitai
 https://civitai.com/
