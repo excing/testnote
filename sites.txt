@@ -1,4 +1,4 @@
-Quant-UX - Prototype, Test and Learn - 5.0.3
+Quant-UX - Prototype, Test
 https://quant-ux.com/
 https://quant-ux.com/favicon.ico
 Quant-UX is the only free Open Source prototyping and user research tool. Design, Test and Learn in one tool! Quant-UX Low Code capabilities allow convert designs into production systems
