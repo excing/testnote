@@ -462,3 +462,18 @@ true
 [recommendation]
 2025-07-24T16:09:59.615Z
 [ogImage]
+
+Quant-UX - Prototype, Test and Learn - 5.0.3
+https://quant-ux.com/
+https://quant-ux.com/favicon.ico
+Quant-UX is the only free Open Source prototyping and user research tool. Design, Test and Learn in one tool! Quant-UX Low Code capabilities allow convert designs into production systems
+软件工具
+prototyping,user research,design,testing,open source,low code
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-07-25T06:23:21.622Z
+[ogImage]
