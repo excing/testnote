@@ -13,7 +13,7 @@ true
 2025-07-25T09:26:37.552Z
 https://cdn.sanity.io/images/599r6htc/regionalized/1adfa5a99040c80af7b4b5e3e2cf845315ea2367-2400x1260.png?w=1200&amp;q=70&amp;fit=max&amp;auto=format
 
-Augment Code - AI coding platform for real software.
+Augment Code
 https://www.augmentcode.com/
 https://www.augmentcode.com/favicon.svg
 The most powerful AI software development platform with the industry-leading context engine.
