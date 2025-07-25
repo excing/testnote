@@ -31,3 +31,7 @@ url,ip_address,language,os,browser,submitted_at,status
 "https://translate.blendiv.com/","74.48.194.69","zh-CN","macOS","Edge","2025-07-12T10:19:36.807Z","approved"
 "http://claude.ai/","localhost","en-US","EXC","WebDirsTo","2025-07-24T08:34:25.528Z","approved"
 "https://fast3d.io","localhost","en","EXC","WebDirsTo","2025-07-24T08:34:25.528Z","approved"
+"https://www.producthunt.com/","localhost","en","EXC","WebDirsTo","2025-07-25T06:21:07.852Z","approved"
+"https://www.setupcheck.tech/","localhost","en","EXC","WebDirsTo","2025-07-25T06:21:07.853Z","approved"
+"https://ai.google.dev/","localhost","en","EXC","WebDirsTo","2025-07-25T06:21:07.853Z","approved"
+"https://console.firebase.google.com","localhost","en-US","EXC","WebDirsTo","2025-07-25T06:21:07.854Z","approved"
