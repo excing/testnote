@@ -1,4 +1,4 @@
-Figma: The Collaborative Interface Design Tool
+Figma
 https://www.figma.com/
 https://static.figma.com/app/icon/1/favicon.ico
 Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single platform.
