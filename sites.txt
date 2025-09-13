@@ -1,4 +1,4 @@
-PhET: Free online physics, chemistry, biology, earth science and math simulations
+PhET
 https://phet.colorado.edu/
 https://phet.colorado.edu/favicon.ico
 Free science and math simulations for teaching STEM topics, including physics, chemistry, biology, and math, from University of Colorado Boulder
