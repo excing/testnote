@@ -1,3 +1,18 @@
+PhET: Free online physics, chemistry, biology, earth science and math simulations
+https://phet.colorado.edu/
+https://phet.colorado.edu/favicon.ico
+Free science and math simulations for teaching STEM topics, including physics, chemistry, biology, and math, from University of Colorado Boulder
+教育
+科学,数学,物理,化学,生物,地球科学,模拟,互动,学习,STEM
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-09-13T13:54:55.759Z
+https://phet.colorado.edu/images/phet-social-media-logo.png
+
 DrawAFish.com
 https://drawafish.com/
 https://drawafish.com/public/favicon.ico
