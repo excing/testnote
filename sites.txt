@@ -28,7 +28,7 @@ true
 2025-09-13T13:54:43.531Z
 https://drawafish.com/public/favicon.ico
 
-Browse NSFW AI Image &amp; Video Generators | NSFWGEN.XYZ
+NSFWGEN.XYZ
 https://nsfwgen.xyz/
 https://nsfwgen.xyz/favicon.ico
 Browse the best uncensored AI tools for NSFW image, video &amp; chat generation
