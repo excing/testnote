@@ -1,4 +1,4 @@
-Kaggle: Your Machine Learning and Data Science Community
+Kaggle
 https://www.kaggle.com/
 https://www.kaggle.com/static/images/favicon.ico
 Kaggle is the world&#x2019;s largest data science community with powerful tools and resources to help you achieve your data science goals.
