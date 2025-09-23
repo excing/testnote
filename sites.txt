@@ -1,17 +1,17 @@
-Hugging Face – The AI community building the future.
-https://huggingface.co/
-https://huggingface.co/favicon.ico
-We’re on a journey to advance and democratize artificial intelligence through open source and open science.
-机器学习平台
-AI,人工智能,机器学习,开源,模型,社区,工具
+Kaggle: Your Machine Learning and Data Science Community
+https://www.kaggle.com/
+https://www.kaggle.com/static/images/favicon.ico
+Kaggle is the world&#x2019;s largest data science community with powerful tools and resources to help you achieve your data science goals.
+数据科学平台
+machine learning,data science,competition,community,education
 SFW
 en
 0
-false
+true
 true
 [recommendation]
-2025-09-23T09:31:46.377Z
-https://huggingface.co/front/thumbnails/v2-2.png
+2025-09-23T09:31:49.115Z
+https://www.kaggle.com/static/images/logos/kaggle-logo-opengraph.png
 
 HLS免费解析
 https://jx.xmflv.cc/
