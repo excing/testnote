@@ -687,3 +687,18 @@ true
 [recommendation]
 2025-09-23T09:52:12.658Z
 [ogImage]
+
+Latest E-book Address
+https://book.clouds.pp.ua/
+https://book.clouds.pp.ua/favicon.ico
+Get the latest Z-library (Zlibrary) address, mirror sites, client download. Multi-language support, safe and stable, accessible globally and in China.
+图书资源
+电子书,书籍,Z-library,下载,资源,多语言
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-10-27T04:35:52.215Z
+https://book.clouds.pp.ua/bookreward.png
