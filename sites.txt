@@ -1,3 +1,48 @@
+Latest E-book Address
+https://book.clouds.pp.ua/
+https://book.clouds.pp.ua/favicon.ico
+Get the latest Z-library (Zlibrary) address, mirror sites, client download. Multi-language support, safe and stable, accessible globally and in China.
+电子书资源导航
+电子书,资源,Z-library,导航,镜像网站
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-10-27T04:37:31.881Z
+[ogImage]
+
+码农场-自然语言处理、机器学习算法
+https://www.hankcs.com/
+https://www.hankcs.com/wp-content/uploads/2017/04/cropped-Hankcs_512-32x32.png
+专注自然语言处理、机器学习算法
+博客
+nlp,机器学习,算法,技术,教育
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-09-23T09:52:12.658Z
+[ogImage]
+
+Hacker News
+https://news.ycombinator.com/
+https://news.ycombinator.com/y18.svg
+[description]
+科技新闻
+科技,新闻,编程,创业,社区
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-09-23T09:51:46.470Z
+[ogImage]
+
 Hugging Face
 https://huggingface.co/
 https://huggingface.co/favicon.ico
@@ -657,48 +702,3 @@ true
 None
 2025-07-09T05:18:12.352Z
 https://icon.horse/ogimage.jpg
-
-Hacker News
-https://news.ycombinator.com/
-https://news.ycombinator.com/y18.svg
-[description]
-科技新闻
-科技,新闻,编程,创业,社区
-SFW
-en
-0
-false
-true
-[recommendation]
-2025-09-23T09:51:46.470Z
-[ogImage]
-
-码农场-自然语言处理、机器学习算法
-https://www.hankcs.com/
-https://www.hankcs.com/wp-content/uploads/2017/04/cropped-Hankcs_512-32x32.png
-专注自然语言处理、机器学习算法
-博客
-nlp,机器学习,算法,技术,教育
-SFW
-en
-0
-false
-true
-[recommendation]
-2025-09-23T09:52:12.658Z
-[ogImage]
-
-Latest E-book Address
-https://book.clouds.pp.ua/
-https://book.clouds.pp.ua/favicon.ico
-Get the latest Z-library (Zlibrary) address, mirror sites, client download. Multi-language support, safe and stable, accessible globally and in China.
-图书资源
-电子书,书籍,Z-library,下载,资源,多语言
-SFW
-en
-0
-false
-true
-[recommendation]
-2025-10-27T04:35:52.215Z
-https://book.clouds.pp.ua/bookreward.png
