@@ -717,3 +717,18 @@ true
 None
 2025-07-09T05:18:12.352Z
 https://icon.horse/ogimage.jpg
+
+Claude Code Templates - Supercharge Your AI-Powered Development with Anthropic's Claude Code
+https://www.aitmpl.com/
+https://www.aitmpl.com/static/favicon/favicon.ico
+Professional templates and configurations for Anthropic
+开发工具
+AI,模板,代码生成,开发者工具
+SFW
+en
+0
+false
+true
+[recommendation]
+2025-11-14T16:31:26.542Z
+https://raw.githubusercontent.com/davila7/claude-code-templates/main/social-preview.png
